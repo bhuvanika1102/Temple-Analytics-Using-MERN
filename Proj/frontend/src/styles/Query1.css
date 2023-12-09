@@ -1,0 +1,196 @@
+/*
+.query4-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .query4-sub {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  form {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .ant-picker {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button.ant-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .query-result {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+  
+  table th,
+  table td {
+    padding: 8px 12px;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+  
+  th {
+    background-color: #f0f0f0;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  */
+  /* Query2.css */
+/* Query2.css */
+/* Query1.css */
+.query2-container {
+  display: flex;
+  justify-content: space-between; /* Changed to align the form and background image */
+  align-items: center;
+  min-height: 100vh;
+  /* padding: 20px; */
+}
+
+
+
+
+.query4-sub {
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  padding: 20px;
+  border-radius: 10px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-right: 270px; /* Adjust the margin as needed to move it slightly to the left */
+}
+
+.left-background {
+  width: 50%;
+  background-image: url('D:\SEM5 PRO\PROJECT\image\download.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left center; /* Adjusted background position */
+  min-height: 100vh;
+}
+
+.query2-sub {
+  width: 50%; /* Changed to make the form smaller */
+  background-color: white; /* Set the background color to white */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  color: black; /* Set the font color to black */
+}
+
+
+/* Rest of the CSS remains the same */
+
+
+/* Rest of the CSS remains the same */
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+form {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+form label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.ant-picker {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button.ant-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.button-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.query-result {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+table th,
+table td {
+  padding: 8px 12px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

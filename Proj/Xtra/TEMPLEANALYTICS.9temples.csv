@@ -1,0 +1,51 @@
+_id,d_templename,d_deity,d_district,d_state,d_pincode,d_era,d_category,d_count,d_year_of_built,d_revenue,d_gold,d_opening_time,d_closing_time,d_email,d_description,__v
+6539390aa8ceb67474a1d6bb,Tirumala Venkateswara,Vishnu,Other,Andhra Pradesh,123456,Chera,Small Size,5,1973-10-25T15:48:23.334Z,10000,50,06:30,08:00,Venkateswara@gmail.com,Venkateswara :),0
+65393982a8ceb67474a1d6bd,Kashi Vishwanath,Shiva,Other,Uttar Pradesh,123456,Chera,Midsize,48,2022-10-25T15:48:23.334Z,15000,69.99,06:30,08:00,Vishwanath@gmail.com,Kashi Vishwanath :) ,0
+65393a0ba8ceb67474a1d6bf,Meenakshi Amman,Parvati,Madurai,Tamil Nadu,123456,Pandya,Large Size,90,1996-10-25T15:48:23.334Z,150000,59.98,06:30,08:00,Meenakshi_Amman@gmail.com,Meenakshi Amman :),0
+65393a63a8ceb67474a1d6c1,Jagannath,Shiva,Other,Uttar Pradesh,123456,Chera,Small Size,100,1999-10-25T15:48:23.334Z,199997,3.98,06:30,08:00,Jagannath@gmail.com,Jagannath :),0
+65393ac0a8ceb67474a1d6c3,Ramanathaswamy,Shiva,Rameswaram,Tamil Nadu,123456,Chola,Midsize,147,2006-10-25T15:48:23.334Z,25000,4.48,06:30,08:00,Ramanathaswamy@gmail.com,Ramanathaswamy :),0
+65393afaa8ceb67474a1d6c5,Nataraja,Shiva,Coimbatore,Tamil Nadu,123456,Pandya,Large Size,200,2009-10-25T15:48:23.334Z,25000,4.99,06:30,08:00,Nataraja@gmail.com,Nataraja :),0
+65393b6ca8ceb67474a1d6c7,thanumalayan,Vishnu,Kanyakumari,Tamil Nadu,787878,Chola,Midsize,500,1996-10-25T15:48:23.334Z,49999,2.48,07:00,23:00,thanumalayan@gmail.com,thanumalayan,0
+65393cb8a8ceb67474a1d6c9,Sree Padmanabhaswamy,Vishnu,Other,Kerala,898976,Chola,Midsize,5000,1986-10-25T15:48:23.334Z,199999,100,06:00,20:00,Padmanabhaswamy@gmail.com, Padmanabhaswamy:),0
+65393d37a8ceb67474a1d6cb,Brihadeeswarar,Shiva,Thanjavur,Tamil Nadu,123456,Pandya,Small Size,7890,1995-10-25T15:48:23.334Z,600000,70.64,07:00,18:00,Brihadeeswarar@gmail.com,Brihadeeswarar:),0
+65393d96a8ceb67474a1d6cd,Thirupathi,Murugan,Other,Tamil Nadu,123456,Chola,Midsize,7000,2005-10-25T15:48:23.334Z,600000,70.64,08:00,20:22,Thirupathi@gmail.com,Thirupathi:),0
+65393f10a8ceb67474a1d6d4,Tirupati Balaji ,Balaji ,Other,Andhra Pradesh,123456,Chola,Small Size,200,2003-10-25T16:13:58.126Z,50000,100,04:00,07:00,TirupatiBalaji@gmail.com,Tirupati Balaji,0
+65393f65a8ceb67474a1d6d6,Siddhivinayak ,Vinayaka,Other,Maharashtra,567898,Pandya,Large Size,500,1993-10-25T16:13:58.126Z,69999,50,04:00,07:00,Siddhivinayak@gmail.com,Siddhivinayak,0
+65394001a8ceb67474a1d6d8,Kedarnath,Kedareshwara,Other,Uttarakhand,987656,Chera,Small Size,800,1993-10-25T16:13:58.126Z,69999,50,05:00,07:00,Kedarnath@gmail.com,Kedarnath,0
+65394059a8ceb67474a1d6da,Harmandir Sahib,Sikh Gurus,Other,Puducherry,987656,Pandya,Midsize,800,1997-10-25T16:13:58.126Z,70011,99.98,05:00,07:00,HarmandirSahib@gmail.com,Harmandir Sahib,0
+6539409fa8ceb67474a1d6dc,Badrinath,Badrinarayan,Other,Uttar Pradesh,456789,Chola,Small Size,800,1983-10-25T16:13:58.126Z,90011,99.98,05:00,07:00,Badrinath@gmail.com,Badrinath,0
+653940ffa8ceb67474a1d6de,Jagannath,Krishna,Other,Other,6757998,Chola,Midsize,100,2000-10-25T16:13:58.126Z,50000,100,05:00,07:00,Jagannath@gmail.com,Jagannath,0
+6539430ca8ceb67474a1d6e0,Somnath ,Someshwara,Other,Gujarat,6537,Chera,Midsize,100,2000-10-25T16:13:58.126Z,50000,100,05:00,07:00,Somnath@gmail.com,Somnath ,0
+653943d2a8ceb67474a1d6e2,Kashi Vishwanath,Shiva,Other,Uttar Pradesh,876546,Chera,Midsize,100,2007-10-25T16:13:58.126Z,90000,100,05:00,07:00,KashiVishwanath@gmail.com,Kashi Vishwanath,0
+6539440ba8ceb67474a1d6e4,Lingaraj,Shiva,Other,Odisha,6,Chera,Midsize,100,2007-10-25T16:13:58.126Z,90000,100,05:00,07:00,KashiVishwanath@gmail.com,Kashi Vishwanath,0
+6539443ca8ceb67474a1d6e6,Mahakaleshwar,Shiva,Other,Madhya Pradesh,665787,Chera,Midsize,100,1993-10-25T16:13:58.126Z,90000,100,05:00,07:00,Mahakaleshwar@gmail.com,Mahakaleshwar,0
+65394460a8ceb67474a1d6e8,Grishneshwar ,Shiva,Other,Madhya Pradesh,665787,Chera,Midsize,100,2004-10-25T16:13:58.126Z,90000,100,05:00,07:00,Grishneshwar@gmail.com,Grishneshwar ,0
+65394482a8ceb67474a1d6ea,Amarnath,Shiva,Other,Jammu and Kashmir,665787,Chera,Midsize,100,2009-10-25T16:13:58.126Z,90000,100,05:00,07:00,Amarnath@gmail.com,Amarnath,0
+653944a3a8ceb67474a1d6ec,Daksheswara Mahadev ,Shiva,Other,Jammu and Kashmir,665787,Chera,Midsize,100,1976-10-25T16:13:58.126Z,90000,100,05:00,07:00,DaksheswaraMahadev@gmail.com,Daksheswara Mahadev ,0
+653945bea8ceb67474a1d6ee,Jagannath,Vishnu,Other,Gujarat,67866,Chera,Midsize,100,1977-10-25T16:13:58.126Z,90000,100,05:00,07:00,Jagannath@gmail.com,Jagannath,0
+65394649a8ceb67474a1d6f0,Vithoba ,Vishnu,Other,Maharashtra,875788,Chera,Midsize,100,1984-10-25T16:13:58.126Z,90000,100,05:00,07:00,Vithoba@gmail.com,Vithoba ,0
+6539466fa8ceb67474a1d6f2,Padmanabhaswamy ,Vishnu,Other,Kerala,875788,Chera,Midsize,100,2004-10-25T16:13:58.126Z,90000,100,05:00,07:00,Padmanabhaswamy@gmail.com,Padmanabhaswamy ,0
+65394697a8ceb67474a1d6f4,Parakala Mutt,Vishnu,Other,Karnataka,875788,Chera,Midsize,100,1963-10-25T16:13:58.126Z,90000,100,05:00,07:00,ParakalMutt@gmail.com,Parakala Mutt,0
+653946bba8ceb67474a1d6f6,Udupi Sri Krishna Matha,Vishnu,Other,Uttar Pradesh,875788,Chera,Midsize,100,1963-10-25T16:13:58.126Z,90000,100,05:00,07:00,UdupiSriKrishnaMatha@gmail.com,Udupi Sri Krishna Matha,0
+653946eaa8ceb67474a1d6f8,Prem Mandir,Vishnu,Other,Uttar Pradesh,875788,Chera,Midsize,100,1976-10-25T16:13:58.126Z,90000,100,05:00,07:00,PremMandir@gmail.com,Prem Mandir,0
+653947fba8ceb67474a1d6fa,Thiruchendur Murugan,Murugan,Other,Uttar Pradesh,875788,Chera,Midsize,100,1983-10-25T16:13:58.126Z,90000,100,05:00,07:00,ThiruchendurMurugan@gmail.com,Thiruchendur Murugan,0
+65394845a8ceb67474a1d6fc,Swamimalai Murugan,Murugan,Thoothukudi,Tamil Nadu,875788,Chera,Midsize,100,1969-10-25T16:13:58.126Z,90000,100,05:00,07:00,SwamimalaiMurugan@gmail.com,Swamimalai Murugan,0
+6539485da8ceb67474a1d6fe,Palani Murugan,Murugan,Thoothukudi,Tamil Nadu,875788,Chera,Midsize,100,1977-10-25T16:13:58.126Z,90000,100,05:00,07:00,PalaniMurugan@gmail.com,Palani Murugan,0
+65394871a8ceb67474a1d700,Thirupparankunram Murugan,Murugan,Thoothukudi,Tamil Nadu,875788,Chera,Midsize,100,1987-10-25T16:13:58.126Z,90000,100,05:00,07:00,PalaniMurugan@gmail.com,Palani Murugan,0
+6539622c42e56be5fec16d70,Pazhamudircholai Murugan,Murugan,Madurai,Tamil Nadu,123456,Chola,Large Size,200,1993-10-25T18:44:33.410Z,50000,100,03:00,05:00,Pazhamudircholai_Murugan@gmail.com,Pazhamudircholai Murugan,0
+6539628742e56be5fec16d72,Thiruthani,Murugan,Madurai,Tamil Nadu,123456,Chola,Large Size,200,1995-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Thiruthani@gmail.com,Thiruthani,0
+653962a042e56be5fec16d74,Marudamalai,Murugan,Madurai,Tamil Nadu,123456,Chola,Large Size,200,1997-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Marudamalai@gmail.com,Marudamalai,0
+653962c742e56be5fec16d76,Saluvankuppam,Murugan,Karur,Tamil Nadu,123456,Chola,Large Size,200,1999-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Saluvankuppam@gmail.com,Saluvankuppam,0
+6539631542e56be5fec16d78,Vadapalani,Murugan,Chennai,Tamil Nadu,123456,Chola,Large Size,200,1966-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Vadapalani@gmail.com,Vadapalani,0
+6539632642e56be5fec16d7a,Vadapalani,Murugan,Chennai,Tamil Nadu,123456,Chola,Large Size,200,1966-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Vadapalani@gmail.com,Vadapalani,0
+653963b142e56be5fec16d7c,Mansa Devi,Parvati,Other,Uttarakhand,123456,Chola,Large Size,200,1976-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Mansa_Devi@gmail.com,Mansa Devi,0
+653963ea42e56be5fec16d7e,Kamakhya,Parvati,Other,Assam,123456,Chola,Large Size,200,1978-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Kamakhya@gmail.com,Kamakhya,0
+653963ed42e56be5fec16d80,Kamakhya,Parvati,Other,Assam,123456,Chola,Large Size,200,1978-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Kamakhya@gmail.com,Kamakhya,0
+653963f142e56be5fec16d82,Kamakhya,Parvati,Other,Assam,123456,Chola,Large Size,200,1978-10-25T18:44:33.410Z,50007,100.98,03:00,05:00,Kamakhya@gmail.com,Kamakhya,0
+6539643442e56be5fec16d84,Pazhamudircholai Murugan,Murugan,Dharmapuri,Andhra Pradesh,123456,Pandya,Small Size,200,2005-10-25T18:53:11.732Z,50000,100,22:22,11:11,Pazhamudircholai_Murugan@gmail.com,Pazhamudircholai Murugan,0
+6539643842e56be5fec16d86,Pazhamudircholai Murugan,Murugan,Dharmapuri,Andhra Pradesh,123456,Pandya,Small Size,200,2005-10-25T18:53:11.732Z,50000,100,22:22,11:11,Pazhamudircholai_Murugan@gmail.com,Pazhamudircholai Murugan,0
+653964b542e56be5fec16d88,Pazhamudircholai Murugan,Murugan,Dharmapuri,Andhra Pradesh,123456,Pandya,Small Size,200,2005-10-25T18:53:11.732Z,50000,100,22:22,11:11,Pazhamudircholai_Murugan@gmail.com,Pazhamudircholai Murugan,0
+653a09d27b8613c87d87d6c9,Pazhamudircholai Murugan,Murugan,Other,Puducherry,123456,Chola,Small Size,200,1996-10-26T06:39:55.094Z,50000,100,20:00,04:00,Pazhamudircholai_Murugan@gmail.com,Pazhamudircholai Murugan,0
+653a0ac17b8613c87d87d6cb,thanumalayan,Shiva,Kanyakumari,Tamil Nadu,123456,Chola,Small Size,200,1999-10-26T06:39:55.094Z,50000,100,20:00,04:00,thanumalayan@gmail.com,thanumalayan,0
+653a0b4c7b8613c87d87d6cd,Akshardham,Vishnu,Other,Delhi,898976,Pandya,Midsize,2000,1975-10-26T06:39:55.094Z,500000,70.99,20:00,04:00,Akshardham@gmail.com,Akshardham:),0
+653a0ba87b8613c87d87d6cf,Narasimh Swamy ,Narasimha,Other,Tamil Nadu,898976,Pandya,Midsize,2000,1975-10-26T06:39:55.094Z,500000,70.99,20:00,04:00,Narasimha@gmail.com,Narasimha:),0

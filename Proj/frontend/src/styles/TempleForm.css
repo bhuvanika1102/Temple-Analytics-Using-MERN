@@ -1,0 +1,48 @@
+/* TempleForm.css */
+
+.App {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #000000;
+  }
+  
+  .form-container {
+    margin: 20px;
+  }
+  
+  .form-item {
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .cascader {
+    width: 100%;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 20px;
+    font-size: 16px;
+    border-radius: 7px;
+    cursor: pointer;
+  }
+  
+  /* Add more styles as needed */
+  

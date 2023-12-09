@@ -1,0 +1,57 @@
+cmd la----> npm init -y
+cmd la-----> node -v (to check nodejs presence)
+
+INSTALL PACKAGES:
+cmd la------>npm i mongoose nodemon express concurrently
+[nodeman- server refresh panna
+ mongoose - to connect with mongodb
+ express- frame of node]
+
+package.json la script ah change pannanum
+ 
+then vs code la -----> npm run server
+if any error occurs change the port number alone
+
+port no. ---> 3030(temp_project)
+
+port no.---->(4040)(temp_mang1)
+
+vs code -----> npx create-react-app front
+HAPPY HACKING! nu varum
+
+cd front
+npm start
+
+FRONT SERVER LA 
+npm i axios react-router-dom antd
+
+pages foldre ah copy panom (src kulla)
+app.js copy panom
+
+styles folder copy panom
+
+vs code---> root folder kulla vantu (ie. cd ..) npm run dev
+
+3000---- client
+3030----- server
+
+
+******extensions in vs code*****
+--------------------------------
+auto import
+auto rename
+community material theme(optional)
+dotENV
+ES7+
+
+
+Folders ellam copy pannanum
+then server la comment line aakuna ellam run pannurathuku modules install pannnum
+
+Cmd la:-
+-------
+	npm install colors(server (running in server.js) nu varum la athuku color font adjust panna)
+	npm install morgan
+	npm install dotenv
+	npm install bcryptjs
+	npm install jsonwebtoken

@@ -1,0 +1,90 @@
+.next-page-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+    /* padding: 20px; */
+  }
+  
+  
+  .left-background {
+    width: 50%; /* Adjust the width as needed */
+    background-image: url('D:\SEM5 PRO\PROJECT\image\download.jpg'); /* Replace with the URL of your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left center;
+    min-height: 100vh;
+  }
+ 
+  
+  
+  .content-container {
+    width: 50%;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .role-button {
+    padding: 15px 20px;
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    font-weight: 1000;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  /* Decorative elements */
+  .decoration {
+    position: absolute;
+    background-color: #ff6600; /* Decoration color */
+    border-radius: 50%;
+  }
+  
+ /* NextPage.css */
+
+/* ... Previous styles ... */
+
+/* Decorative elements */
+.decoration1 {
+    width: 20px;
+    height: 20px;
+    top: 20%; /* Adjusted to be closer to decoration2 */
+    left: 10%; /* Adjusted to be closer to decoration2 */
+  }
+  
+  .decoration2 {
+    width: 15px;
+    height: 15px;
+    top: 20%;
+    left: 80%;
+  }
+  
+  .decoration3 {
+    width: 25px;
+    height: 25px;
+    top: 50%; /* Adjusted to be closer to decoration4 */
+    left: 65%; /* Adjusted to be closer to decoration4 */
+  }
+  
+  .decoration4 {
+    width: 18px;
+    height: 18px;
+    top: 70%;
+    left: 70%;
+  }
+  
+  .decoration5 {
+    width: 22px;
+    height: 22px;
+    top: 50%; /* Adjusted to be closer to decoration4 */
+    left: 15%; /* Adjusted to be closer to decoration4 */
+  }
+  
+  /* Add more decorative elements as needed */
+  
