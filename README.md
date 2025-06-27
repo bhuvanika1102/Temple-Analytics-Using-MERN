@@ -29,13 +29,19 @@ The **Temple Analytics System** offers a centralized dashboard for religious ins
 - 🔍 **Query APIs using aggregation pipelines**
 
 ## 📸 Screenshots
-
-![Home Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true)
-
 - Home Page
 - Registration Page
 - Analytics Dashboard
 - Query Results (Revenue, Gold, Visitors)
+![Home Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true)
+![role selection Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160336.png?raw=true)
+![Registeration Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160402.png?raw=true)
+![Query selection page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160439.png?raw=true)
+![Query1](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160459.png?raw=true)
+![Query2](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160522.png?raw=true)
+![Query3](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160540.png?raw=true)
+
+
 
 ## 🗃️ Database Collection: `TEMPLES`
 
