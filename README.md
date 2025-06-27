@@ -30,7 +30,7 @@ The **Temple Analytics System** offers a centralized dashboard for religious ins
 
 ## 📸 Screenshots
 
-> Add actual screenshots in GitHub using the `![Alt Text](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true)` format once pushed.
+![Home Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true)
 
 - Home Page
 - Registration Page
