@@ -47,7 +47,6 @@ The **Temple Analytics System** offers a centralized dashboard for religious ins
       <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160540.png?raw=true" width="400"/>
     </td>
     <td>
-    <td>
       <h4>📊 Query Selection Page</h4>
       <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160439.png?raw=true" width="400"/>
     </td>
@@ -68,7 +67,7 @@ The **Temple Analytics System** offers a centralized dashboard for religious ins
       <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160402.png?raw=true" width="400"/>
     </td>
       <!-- Optional: add more screenshots or leave empty -->
-    </td>
+  
   </tr>
 </table>
 
