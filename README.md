@@ -28,32 +28,49 @@ The **Temple Analytics System** offers a centralized dashboard for religious ins
 - 🏛️ **Detailed temple registration**
 - 🔍 **Query APIs using aggregation pipelines**
 
-## 📸 Screenshots
-- Home Page
-- Registration Page
-- Analytics Dashboard
-- Query Results (Revenue, Gold, Visitors)
-<h3>🏠 Home Page</h3>
-<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true" width="400"/>
+## 📸 Project Screenshots
 
-<h3>👥 Role Selection Page</h3>
-<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160336.png?raw=true" width="400"/>
-
-<h3>📝 Registration Page</h3>
-<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160402.png?raw=true" width="400"/>
-
-<h3>📊 Query Selection Page</h3>
-<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160439.png?raw=true" width="400"/>
-
-<h3>📈 Query 1 Result</h3>
-<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160459.png?raw=true" width="400"/>
-
-<h3>📉 Query 2 Result</h3>
-<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160522.png?raw=true" width="400"/>
-
-<h3>👥 Query 3 Result</h3>
-<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160540.png?raw=true" width="400"/>
-
+<table>
+  <tr>
+    <td>
+      <h4>🏠 Home Page</h4>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true" width="400"/>
+    </td>
+    <td>
+      <h4>👥 Role Selection Page</h4>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160336.png?raw=true" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>📝 Registration Page</h4>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160402.png?raw=true" width="400"/>
+    </td>
+    <td>
+      <h4>📊 Query Selection Page</h4>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160439.png?raw=true" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>📈 Query 1 Result</h4>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160459.png?raw=true" width="400"/>
+    </td>
+    <td>
+      <h4>📉 Query 2 Result</h4>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160522.png?raw=true" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>👥 Query 3 Result</h4>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160540.png?raw=true" width="400"/>
+    </td>
+    <td>
+      <!-- Optional: add more screenshots or leave empty -->
+    </td>
+  </tr>
+</table>
 
 
 ## 🗃️ Database Collection: `TEMPLES`
