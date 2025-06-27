@@ -68,8 +68,7 @@ The **Temple Analytics System** offers a centralized dashboard for religious ins
     </td>
   <td>
       <h4>📝 Registration Page</h4>
-      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160426.png?raw=true
-" width="400"/>
+      <img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160426.png?raw=true" width="400"/>
     </td>  
   </tr>
 </table>
