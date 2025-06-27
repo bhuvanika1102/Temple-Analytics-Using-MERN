@@ -33,13 +33,26 @@ The **Temple Analytics System** offers a centralized dashboard for religious ins
 - Registration Page
 - Analytics Dashboard
 - Query Results (Revenue, Gold, Visitors)
-![Home Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true)
-![role selection Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160336.png?raw=true)
-![Registeration Page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160402.png?raw=true)
-![Query selection page](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160439.png?raw=true)
-![Query1](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160459.png?raw=true)
-![Query2](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160522.png?raw=true)
-![Query3](https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160540.png?raw=true)
+<h3>🏠 Home Page</h3>
+<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160349.png?raw=true" width="400"/>
+
+<h3>👥 Role Selection Page</h3>
+<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160336.png?raw=true" width="400"/>
+
+<h3>📝 Registration Page</h3>
+<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160402.png?raw=true" width="400"/>
+
+<h3>📊 Query Selection Page</h3>
+<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160439.png?raw=true" width="400"/>
+
+<h3>📈 Query 1 Result</h3>
+<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160459.png?raw=true" width="400"/>
+
+<h3>📉 Query 2 Result</h3>
+<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160522.png?raw=true" width="400"/>
+
+<h3>👥 Query 3 Result</h3>
+<img src="https://github.com/bhuvanika1102/Temple-Analytics-Using-MERN/blob/main/Proj/Xtra/Screenshot%202023-12-09%20160540.png?raw=true" width="400"/>
 
 
 
